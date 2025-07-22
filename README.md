@@ -4,7 +4,7 @@ Bienvenue dans ce dépôt GitHub, qui rassemble un corpus de trois articles de r
 
 **Un nouveau paradigme pour la gravité quantique, la cosmologie et la physique fondamentale**
 
-Ce dépôt rassemble trois travaux fondateurs proposant une refonte radicale de la physique : l'espace-temps, la matière et les lois de la gravitation émergent d'un substrat computationnel fondamental gouverné par les principes de la théorie quantique de l'information.
+L'espace-temps, la matière et les lois de la gravitation émergent d'un substrat computationnel fondamental gouverné par les principes de la théorie quantique de l'information.
 
 ## Vision Unificatrice
 

@@ -1,6 +1,6 @@
 # Reflexions sur l'Émergence de l'Espace-Temps et des Champs Quantiques
 
-Bienvenue dans ce dépôt GitHub, qui rassemble un corpus de trois articles de recherche explorant une refondation radicale de la physique fondamentale. Ces travaux proposent un cadre unifié où l'espace-temps, la gravité et les champs quantiques n'existent pas comme entités primitives, mais émergent d'un substrat informationnel et computationnel fondamental.
+Bienvenue dans ce dépôt GitHub, qui rassemble un corpus de trois articles de recherche explorant une refondation radicale de la physique fondamentale. 
 
 **Un nouveau paradigme pour la gravité quantique, la cosmologie et la physique fondamentale**
 

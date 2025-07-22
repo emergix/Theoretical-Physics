@@ -4,8 +4,6 @@ Bienvenue dans ce dépôt GitHub, qui rassemble un corpus de trois articles de r
 
 Les trois papiers inclus dans ce projet sont :
 
-Les trois papiers inclus dans ce projet sont :
-
 1.   **["Théorie de l'Émergence Informationnelle de l'Espace-Temps"](./papers/Emergence_Informationelle_EspaceTemps.pdf)** : Ce document propose une inversion du paradigme physique traditionnel, où l'information structurée engendre la matière-énergie[cite: 379, 380]. [cite_start]Il synthétise les flots modulaires de Tomita-Takesaki [cite: 380][cite_start], les généralisations holographiques de Ryu-Takayanagi [cite: 380][cite_start], et l'effet Unruh [cite: 380] [cite_start]pour résoudre des problèmes clés tels que la finitude de la vitesse de la lumière `c` et l'émergence des dimensions `D=3+1`[cite: 381]. [cite_start]Il offre également une nouvelle voie vers la gravité quantique[cite: 381].
 
 2.  **["Vers une refondation computationnelle de l'espace-temps et des champs quantiques"](./papers/RefondationComputationelle_EspaceTemps_QFT.pdf)** : Ce papier développe une théorie où le temps lui-même émerge comme un flux d'information au sein d'un réseau dynamique de qubits[cite: 146, 147]. [cite_start]Il démontre comment l'invariance de Lorentz, les équations d'Einstein et la flèche du temps découlent naturellement de ce substrat computationnel causal[cite: 149]. [cite_start]Des prédictions testables, telles que des violations de Lorentz et des anomalies dans le fond diffus cosmologique (CMB), sont également présentées[cite: 150].

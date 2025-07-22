@@ -2,6 +2,34 @@
 
 Bienvenue dans ce dépôt GitHub, qui rassemble un corpus de trois articles de recherche explorant une refondation radicale de la physique fondamentale. Ces travaux proposent un cadre unifié où l'espace-temps, la gravité et les champs quantiques n'existent pas comme entités primitives, mais émergent d'un substrat informationnel et computationnel fondamental.
 
+**Un nouveau paradigme pour la gravité quantique, la cosmologie et la physique fondamentale**
+
+Ce dépôt rassemble trois travaux fondateurs proposant une refonte radicale de la physique : l'espace-temps, la matière et les lois de la gravitation émergent d'un substrat computationnel fondamental gouverné par les principes de la théorie quantique de l'information.
+
+## Vision Unificatrice
+
+Les théories actuelles de la physique - relativité générale et mécanique quantique - décrivent avec une précision inouïe le comportement de l'Univers à leurs échelles respectives. Pourtant, leur réconciliation demeure le Graal de la physique fondamentale. Nos travaux résolvent cette tension par une **inversion épistémologique** :
+
+> *"L'espace-temps n'est pas un contenant primitif, mais une structure dérivée de dynamiques informationnelles."* 
+
+Cette approche s'appuie sur trois piliers complémentaires exposés dans les articles ci-joints :
+
+1. **La complexité computationnelle comme fondement de la localité**  
+   Une limite fondamentale κ sur le nombre de degrés de liberté cohérents explique l'émergence de la géométrie spatiale (distance `ds² ∝ log I(A,B)/κ`)
+
+2. **L'entropie modulaire comme source de la gravité**  
+   La généralisation des équations de Jacobson via le flot modulaire de Tomita-Takesaki (`σₜ`) et la transformée de Mellin reconstruit simultanément la métrique `gₘᵥ` et le contenu matériel `Tₘᵥ`
+
+3. **Le temps comme flux computationnel**  
+   Le temps cosmologique émerge comme complexité accumulée (`τ_cosmo ∝ ∫ 𝒞 d⁴x`) dans un réseau causal de qubits sous contrainte `ρ_calc = cte`
+
+## Implications Transformatives
+
+Ce cadre permet de :
+- **Dériver les équations d'Einstein** comme équation d'état thermodynamique d'une structure informationnelle dynamique
+- **Résoudre des énigmes centenaires** : finitude de `c`, émergence de `D=3+1`, flèche du temps
+- **Prédire des signatures observables** : violations de Lorentz (`Δv ∼ e^{-E/ρ₀^{1/4}}`), anomalies dans le CMB (`δ_ℓ = Aℓ^{-3/2}e^{-γℓ}`), variations de constantes fondamentales
+- 
 Les trois papiers inclus dans ce projet sont :
 
 1.   **["Théorie de l'Émergence Informationnelle de l'Espace-Temps"](./papers/Emergence_Informationelle_EspaceTemps.pdf)** : Ce document propose une inversion du paradigme physique traditionnel, où l'information structurée engendre la matière-énergie[cite: 379, 380]. [cite_start]Il synthétise les flots modulaires de Tomita-Takesaki [cite: 380][cite_start], les généralisations holographiques de Ryu-Takayanagi [cite: 380][cite_start], et l'effet Unruh [cite: 380] [cite_start]pour résoudre des problèmes clés tels que la finitude de la vitesse de la lumière `c` et l'émergence des dimensions `D=3+1`[cite: 381]. [cite_start]Il offre également une nouvelle voie vers la gravité quantique[cite: 381].

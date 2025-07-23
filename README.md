@@ -52,4 +52,4 @@ N'hésitez pas à explorer les documents et à soulever des questions ou des com
 
 **Nom de l'auteur :** Olivier Croissant (tel qu'indiqué dans les papiers)
 
-**Licence :** (À ajouter ici, ex: [MIT License](LICENSE) ou autre)
+**Licence :** (À ajouter ici, ex: [MIT License](LICENSE))

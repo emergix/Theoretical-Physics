@@ -43,7 +43,7 @@ The four papers included in this project are:
 3. **["Holographic Entanglement, Quantum Gravity, and Fundamental Computational Complexity"](./papers/IntricationHolographique_ComplexiteComputationelle.pdf)**  
    This synthesis explores deep connections between holographic entanglement entropy, the emergence of Einstein's equations, and the crucial role of fundamental computational complexity [cite: 5, 44]. The paper proposes a unifying vision where spacetime locality results from an intrinsic limit on computing power [cite: 6, 44], integrating advances from string theory, loop quantum gravity, and quantum information theory [cite: 7].
 
-4. **["Complexity_and_spatio-temporal_emegence"](./papers/Complexité_et_emegence_spatiotemporelle.pdf)**
+4. **["Complexity_and_spatio-temporal_emergence"](./papers/Complexité_et_emegence_spatiotemporelle.pdf)**
    We propose an approach to computational complexity as a fundamental ingredient in the emergence of spatio-temporal geometry. By integrating perspectives from information theory, geometric dynamical systems, and quantum theories of space-time (notably the work of Finster and Miranda), we lay the foundations for a universal computational structure where complexity becomes a dynamic, topological, and asymptotic invariant.
 ---
 

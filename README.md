@@ -32,7 +32,7 @@ This framework enables us to:
 
 ---
 
-The three papers included in this project are:
+The four papers included in this project are:
 
 1. **["Theory of the Informational Emergence of Spacetime"](./papers/Emergence_Informationelle_EspaceTemps.pdf)**  
    This document proposes an inversion of the traditional physics paradigm, where structured information generates matter-energy [cite: 379, 380]. It synthesizes Tomita-Takesaki modular flows [cite: 380], Ryu-Takayanagi holographic generalizations [cite: 380], and the Unruh effect [cite: 380] to resolve key problems including the finiteness of light speed `c` and emergence of dimensions `D=3+1` [cite: 381]. It also offers a new pathway to quantum gravity [cite: 381].

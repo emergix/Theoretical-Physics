@@ -49,6 +49,10 @@ The four papers included in this project are:
 5.  **["ADS_CFT_Correspondance"](./papers/ADS_CFT_Correspondance.pdf)**
    This paper interprets the AdS/CFT correspondence as a generalized **Stokes theorem**. The duality equates a conformal field theory (CFT) in *d* dimensions with a gravitational theory in AdS *(d+1)* dimensions, embodying the holographic principle: bulk information is encoded on the boundary. The work emphasizes an **information-theoretic view**, showing that AdS/CFT functions as a **quantum error-correcting code**. Bulk operators can be reconstructed from boundary regions,    ensuring robustness. Using **relative entropy** and the **modular Hamiltonian**, the JLMS/FLM results are recast as an “informational Stokes theorem,” where entanglement laws parallel Gauss’ law. Spacetime emerges as a structure of quantum encoding.
 
+5.  **["Scale_Inv_IS_Bound"](./papers/Scale_Inv_IS_Bound.pdf)**
+
+   This paper interprets the Itakura-Saito (IS) loss through a **field-theoretic framework**, showing that minimizing IS loss corresponds to minimizing an energy functional for a prediction field. Linearization reveals a massive scalar field theory, with **conformal invariance** emerging in the large-target limit. This symmetry improves robustness by flattening the Hessian spectrum, yielding better optimization. A **unified causal bound** on information propagation in       networks is derived: while IS loss enhances conditioning, it cannot exceed architecture-imposed speed limits. Connections with **Neural Tangent Kernel dynamics** and holographic analogies are developed, and a 1D example illustrates how IS loss stabilizes and accelerates training within strict causal horizons.
+
 
 ---
 

@@ -45,6 +45,11 @@ The four papers included in this project are:
 
 4. **["Complexity_and_spatio-temporal_emergence"](./papers/Complexité_et_emegence_spatiotemporelle.pdf)**
    We propose an approach to computational complexity as a fundamental ingredient in the emergence of spatio-temporal geometry. By integrating perspectives from information theory, geometric dynamical systems, and quantum theories of space-time (notably the work of Finster and Miranda), we lay the foundations for a universal computational structure where complexity becomes a dynamic, topological, and asymptotic invariant.
+
+5.  **["Complexity_and_spatio-temporal_emergence"](./papers/Complexité_et_emegence_spatiotemporelle.pdf)**
+   This paper interprets the AdS/CFT correspondence as a generalized **Stokes theorem**. The duality equates a conformal field theory (CFT) in *d* dimensions with a gravitational theory in AdS *(d+1)* dimensions, embodying the holographic principle: bulk information is encoded on the boundary. The work emphasizes an **information-theoretic view**, showing that AdS/CFT functions as a **quantum error-correcting code**. Bulk operators can be reconstructed from boundary regions,    ensuring robustness. Using **relative entropy** and the **modular Hamiltonian**, the JLMS/FLM results are recast as an “informational Stokes theorem,” where entanglement laws parallel Gauss’ law. Spacetime emerges as a structure of quantum encoding.
+
+
 ---
 
 ### Project Objective:

@@ -51,7 +51,8 @@ The four papers included in this project are:
 
 5.  **["Scale_Inv_IS_Bound"](./papers/Scale_Inv_IS_Bound.pdf)**
 
-   This paper interprets the Itakura-Saito (IS) loss through a **field-theoretic framework**, showing that minimizing IS loss corresponds to minimizing an energy functional for a prediction field. Linearization reveals a massive scalar field theory, with **conformal invariance** emerging in the large-target limit. This symmetry improves robustness by flattening the Hessian spectrum, yielding better optimization. A **unified causal bound** on information propagation in       networks is derived: while IS loss enhances conditioning, it cannot exceed architecture-imposed speed limits. Connections with **Neural Tangent Kernel dynamics** and holographic analogies are developed, and a 1D example illustrates how IS loss stabilizes and accelerates training within strict causal horizons.
+   This paper interprets the Itakura-Saito (IS) loss through a **field-theoretic framework**, showing that minimizing IS loss corresponds to minimizing an energy functional for a prediction field. Linearization reveals a massive scalar field theory, with **conformal invariance** emerging in the large-target limit. This symmetry improves robustness by flattening the Hessian spectrum, yielding better optimization. A **unified causal bound**
+   on information propagation in       networks is derived: while IS loss enhances conditioning, it cannot exceed architecture-imposed speed limits. Connections with **Neural Tangent Kernel dynamics** and holographic analogies are developed, and a 1D example illustrates how IS loss stabilizes and accelerates training within strict causal horizons.
 
 
 ---

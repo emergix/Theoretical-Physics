@@ -54,6 +54,8 @@ The six papers included in this project are:
    on information propagation in       networks is derived: while IS loss enhances conditioning, it cannot exceed architecture-imposed speed limits. Connections with **Neural Tangent Kernel dynamics** and holographic analogies are developed, and a 1D example illustrates how IS loss stabilizes and accelerates training within strict causal horizons.
 
 7.  **["CFS_Holography_2025_Comments"](./papers/CFS_Holography_2025_Comments.pdf)**
+   Recent work on **Causal Fermion Systems** (Finster, 2018; Dappiaggi et al., 2025) suggests that space-time and fields emerge from fermionic correlations: matter creates space by self-interaction. The familiar (1,3) signature and the notion of time appear only locally and asymptotically, while at the Big Bang or inside black holes, dimension and time may become undefined.
+   We also    connected these insights with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal principle of limited propagation speed.
 
 ---
 

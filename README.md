@@ -1,6 +1,6 @@
 # Reflections on the Emergence of Spacetime and Quantum Fields
 
-Welcome to this GitHub repository, which gathers a corpus of three research articles exploring a radical refoundation of fundamental physics.
+Welcome to this GitHub repository, which gathers a corpus of seven research articles exploring a radical refoundation of fundamental physics.
 
 **A New Paradigm for Quantum Gravity, Cosmology, and Fundamental Physics**
 

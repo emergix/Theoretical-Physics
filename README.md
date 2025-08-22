@@ -44,41 +44,24 @@ The seven papers included in this project are:
 **FR 🇫🇷** → [PDF](./papers/Emergence_Informationelle_EspaceTemps.pdf)
 
 
-<style>
-.doc-card{border:1px solid #e5e7eb;border-radius:16px;padding:18px 20px;margin:18px 0;
-box-shadow:0 2px 10px rgba(15,23,42,.06);background:#fff}
-.doc-title{font-size:1.05rem;font-weight:700;margin:0 0 6px}
-.doc-meta{font-size:.85rem;color:#6b7280;margin-bottom:10px}
-.doc-summary{margin:10px 0 14px;line-height:1.55}
-.langs{display:flex;gap:10px;flex-wrap:wrap}
-.langs a{display:inline-flex;align-items:center;gap:8px;text-decoration:none;
-border:1px solid #e5e7eb;border-radius:999px;padding:8px 12px;font-weight:600}
-.badge{font-size:.75rem;background:#f1f5f9;color:#334155;border-radius:999px;padding:3px 8px;margin-right:6px}
-.cites{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
-.cite{font-size:.7rem;background:#eef2ff;color:#3730a3;border-radius:8px;padding:2px 6px}
-.langs a:hover{background:#f8fafc}
-</style>
+### Theory of the Informational Emergence of Spacetime
 
-<div class="doc-card">
-  <div class="doc-title">Theory of the Informational Emergence of Spacetime</div>
-  <div class="doc-meta">
-    <span class="badge">PDF</span>
-    <span class="badge">Quantum Foundations</span>
-    <span class="badge">12 pages</span>
-  </div>
-  <div class="doc-summary">
-    This work proposes an inversion of the traditional physics paradigm, where <em>structured information</em> generates matter–energy.
-    It synthesizes Tomita–Takesaki modular flows, Ryu–Takayanagi holographic generalizations, and the Unruh effect to address the finiteness of light speed <code>c</code>
-    and the emergence of dimensions <code>D = 3+1</code>, suggesting a pathway to quantum gravity.
-    <div class="cites">
-      <span class="cite">[379]</span><span class="cite">[380]</span><span class="cite">[381]</span>
-    </div>
-  </div>
-  <div class="langs">
-    <a href="./papers/Emergence_Informationelle_EspaceTemps_EN.pdf">🇬🇧 Read in English</a>
-    <a href="./papers/Emergence_Informationelle_EspaceTemps.pdf">🇫🇷 Lire en français</a>
-  </div>
-</div>
+> *Inverts the usual physics paradigm: structured information gives rise to matter–energy.  
+> Bridges Tomita–Takesaki modular flows, Ryu–Takayanagi holography, and the Unruh effect to address the finiteness of `c` and the emergence of `D = 3+1`, suggesting a route toward quantum gravity.*  
+> *Refs: [379], [380], [381]*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Emergence_Informationelle_EspaceTemps_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Emergence_Informationelle_EspaceTemps.pdf)
+![Tag](https://img.shields.io/badge/Quantum%20Foundations-%20-lightgrey)
+![Pages](https://img.shields.io/badge/Pages-12-informational)
+
+<details>
+  <summary><b>Résumé FR</b></summary>
+
+Renverse le paradigme classique : l’information structurée engendre la matière-énergie.  
+En articulant les flux modulaires de Tomita–Takesaki, les généralisations holographiques de Ryu–Takayanagi et l’effet Unruh, le texte aborde la finitude de la vitesse de la lumière `c` et l’émergence de `D = 3+1`, esquissant une voie vers la gravité quantique.  
+Refs: [379] [380] [381]
+</details>
 
 
 

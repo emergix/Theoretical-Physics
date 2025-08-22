@@ -34,10 +34,14 @@ This framework enables us to:
 
 The seven papers included in this project are:
 
-1. ** In English["Theory of the Informational Emergence of Spacetime"](./papers/Emergence_Informationelle_EspaceTemps_EN.pdf)**
+1. ### Theory of the Informational Emergence of Spacetime
 
-   ** In French["Theory of the Informational Emergence of Spacetime"](./papers/Emergence_Informationelle_EspaceTemps.pdf)**  
-   This document proposes an inversion of the traditional physics paradigm, where structured information generates matter-energy [cite: 379, 380]. It synthesizes Tomita-Takesaki modular flows [cite: 380], Ryu-Takayanagi holographic generalizations [cite: 380], and the Unruh effect [cite: 380] to resolve key problems including the finiteness of light speed `c` and emergence of dimensions `D=3+1` [cite: 381]. It also offers a new pathway to quantum gravity [cite: 381].
+> An inversion of the traditional physics paradigm where structured information generates matter–energy.  
+> Synthesizes Tomita–Takesaki modular flows, Ryu–Takayanagi holographic generalizations, and the Unruh effect to address the finiteness of light speed `c` and the emergence of dimensions `D = 3+1`, suggesting a pathway to quantum gravity.  
+> *— 12 pages · refs: 379–381*
+
+**EN 🇬🇧** → [PDF](./papers/Emergence_Informationelle_EspaceTemps_EN.pdf)  
+**FR 🇫🇷** → [PDF](./papers/Emergence_Informationelle_EspaceTemps.pdf)
 
 3. **["Toward a Computational Refoundation of Spacetime and Quantum Fields"](./papers/RefondationComputationelle_EspaceTemps_QFT.pdf)**  
    This paper develops a theory where time itself emerges as information flow within a dynamic qubit network [cite: 146, 147]. It demonstrates how Lorentz invariance, Einstein's equations, and the arrow of time naturally derive from this causal computational substrate [cite: 149]. Testable predictions, such as Lorentz violations and cosmic microwave background (CMB) anomalies, are also presented [cite: 150].

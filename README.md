@@ -139,7 +139,7 @@ Avec l’**entropie relative** et le **Hamiltonien modulaire**, JLMS/FLM se reco
 
 ---
 
-### 6) Scale_Inv_IS_Bound
+### 6) From Itakura–Saito loss to Conformal Invariance
 
 > *Field-theoretic view of the Itakura–Saito loss: minimizing IS ≈ minimizing an energy of a prediction field.  
 > Linearization yields a massive scalar theory; in the large-target limit, **conformal invariance** emerges and flattens the Hessian spectrum (robust optimization).  

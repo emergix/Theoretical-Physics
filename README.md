@@ -33,7 +33,7 @@ This framework enables us to:
 ---
 
 
-# Abstract
+# Note On the speed of light
 
 Cette note explore le rôle des opérateurs fermioniques dans la théorie des 
 *Causal Fermion Systems* (CFS) et leur interprétation possible comme 

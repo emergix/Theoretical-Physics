@@ -32,6 +32,45 @@ This framework enables us to:
 
 ---
 
+
+# Abstract
+
+Cette note explore le rôle des opérateurs fermioniques dans la théorie des 
+*Causal Fermion Systems* (CFS) et leur interprétation possible comme 
+**oscillateurs locaux** (modes fermioniques satisfaisant les relations CAR). 
+À partir de cette analogie, on développe plusieurs points :
+
+- **Correspondance CFS – oscillateurs locaux** :  
+  Chaque opérateur fermionique \(F(x)\) peut être vu comme la donnée effective 
+  d’un mode fermionique local (occupé ou vide), tandis que les corrélations 
+  \(P(x,y)\) jouent le rôle de couplages dans un réseau d’oscillateurs.  
+
+- **Propagation à vitesse finie** :  
+  Finster démontre, via l’analyse des équations d’Euler–Lagrange linéarisées 
+  et des intégrales de couches de surface, que les perturbations se propagent 
+  avec une vitesse finie. Dans la limite continue, cette borne s’identifie 
+  naturellement à la vitesse de la lumière \(c\).  
+
+- **Différence avec les bornes de Lieb–Robinson** :  
+  La vitesse limite en CFS n’est pas obtenue par une inégalité de type 
+  Lieb–Robinson (commutateurs hamiltoniens locaux), mais par une analyse 
+  variationnelle et hyperbolique de la dynamique effective.  
+
+- **Interprétation informationnelle** :  
+  Les opérateurs fermioniques forment un registre d’oscillateurs locaux 
+  (bits quantiques fermioniques). La borne \(c\) peut alors être comprise 
+  comme la **vitesse maximale de transmission d’information** dans ce réseau — 
+  ou, de manière équivalente, comme une **borne de complexité calculatoire** 
+  du tissu de l’univers.  
+
+En résumé, le formalisme CFS offre une justification rigoureuse de la 
+causalité relativiste, tout en ouvrant la voie à une interprétation 
+computationnelle où la vitesse de la lumière émerge comme limite fondamentale 
+de traitement de l’information.
+
+
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_VitesseMax.pdf)
+
 The seven papers included in this project are:
 
 

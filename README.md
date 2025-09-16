@@ -236,11 +236,13 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 ![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
 ![Tag](https://img.shields.io/badge/Holography-lightgrey)
 
-### 10) Topos_createur
+### 10) Topos as a modeling tool for measurement
 
-> *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
-> The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
-> Linked with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal speed-limit principle.*
+> *This paper develops the notion of creative measurement, reframing quantum measurement as an act of creation rather than collapse.
+> Using topos theory, a measurement is modeled as a geometric morphism that transforms the pre-measurement topos into one where the result becomes decidable (Boolean) within its context.
+>  This process is atemporal, independent of entropy, and quantifies new logical information via ΔI(U) = –log µ(U). The framework aligns with the Wheeler–DeWitt equation,
+>  where refinement of truths replaces temporal evolution. Applied to Causal Fermion Systems, measurement localizes causal predicates and re-optimizes the action, offering a coherent,
+>  information-theoretic interpretation of quantum measurement.*
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)

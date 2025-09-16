@@ -220,7 +220,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/CFS_VitesseMax_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_VitesseMax_FR.pdf)
 ![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
-![Tag](https://img.shields.io/badge/Holography-lightgrey)
+![Tag](https://img.shields.io/badge/ComputationalLimits-lightgrey)
 
 ### 9) FaiceauSpectral_MorphismeGeometrique
 
@@ -232,8 +232,8 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/FaiceauSpectral_MorphismeGeometrique_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/FaiceauSpectral_MorphismeGeometrique_FR.pdf)
-![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
-![Tag](https://img.shields.io/badge/Holography-lightgrey)
+![Tag](https://img.shields.io/badge/SpectralSheaf-lightgrey)
+![Tag](https://img.shields.io/badge/ToposTheory-lightgrey)
 
 ### 10) Topos as a modeling tool for measurement
 
@@ -245,8 +245,8 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
-![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
-![Tag](https://img.shields.io/badge/Holography-lightgrey)
+![Tag](https://img.shields.io/badge/QuantumMeasurement-lightgrey)
+![Tag](https://img.shields.io/badge/ToposLogic-lightgrey)
 
 
 

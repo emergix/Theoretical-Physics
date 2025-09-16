@@ -216,7 +216,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 >  is shown to induce a global partial order with consistency constraints. Decoherence and effective quantum collapse emerge from mixtures of quasi-degenerate minimizers,
 > reproducing the Born rule. The speed of light is reinterpreted as a computational bound: the maximum rate of information propagation in the CFS network, formalized
 >  through Lieb–Robinson type estimates and hyperbolic equations from the Euler–Lagrange framework. Fermionic operators are viewed as local oscillators,
-> forming a quantum circuit whose complexity limits yield finite causal propagation.
+> forming a quantum circuit whose complexity limits yield finite causal propagation.*
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/CFS_VitesseMax_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_VitesseMax_FR.pdf)

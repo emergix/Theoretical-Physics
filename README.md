@@ -210,6 +210,42 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 ![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
 ![Tag](https://img.shields.io/badge/Holography-lightgrey)
 
+### 8) CFS_VitesseMax
+
+> *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
+> The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
+> Linked with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal speed-limit principle.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/CFS_VitesseMax_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_VitesseMax_FR.pdf)
+![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
+![Tag](https://img.shields.io/badge/Holography-lightgrey)
+
+### 9) FaiceauSpectral_MorphismeGeometrique
+
+> *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
+> The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
+> Linked with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal speed-limit principle.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/FaiceauSpectral_MorphismeGeometrique_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/FaiceauSpectral_MorphismeGeometrique_FR.pdf)
+![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
+![Tag](https://img.shields.io/badge/Holography-lightgrey)
+
+### 10) Topos_createur
+
+> *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
+> The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
+> Linked with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal speed-limit principle.*
+
+[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Topos_createur_EN.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Topos_createur_FR.pdf)
+![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
+![Tag](https://img.shields.io/badge/Holography-lightgrey)
+
+
+
+
 <details>
   <summary><b>Résumé FR</b></summary>
 

@@ -225,9 +225,11 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 ### 9) FaiceauSpectral_MorphismeGeometrique
 
-> *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
-> The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
-> Linked with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal speed-limit principle.*
+> *This paper introduces the spectral sheaf as a presheaf over the category of abelian subalgebras of a von Neumann algebra, representing contextual state spaces in quantum mechanics.
+>  By the Kochen–Specker theorem, it lacks global sections, admitting only local ones. The framework is set within Grothendieck topoi,
+> where sieves and covering families define sheaf conditions. Geometric morphisms generalize continuous maps and act as adjunctions between topoi.
+>  A concrete example shows how restricting contexts (e.g., experimentally accessible observables) induces a morphism transporting the spectral presheaf.
+> This ensures logical coherence across contexts, providing a categorical foundation for contextual quantum state representations.*
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/FaiceauSpectral_MorphismeGeometrique_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/FaiceauSpectral_MorphismeGeometrique_FR.pdf)

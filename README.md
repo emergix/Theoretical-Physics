@@ -139,7 +139,7 @@ Refs: [5] [44] [6] [44] [7]
 
 ---
 
-### 4) Complexity_and_spatio-temporal_emergence
+### 4) Complexity and spatio-temporal_emergence
 
 > *Computational complexity as a first-class ingredient in the emergence of spatio-temporal geometry.  
 > Merges information theory, geometric dynamical systems, and quantum spacetime (Finster, Miranda) to propose a universal computational structure where complexity is a dynamic, topological, asymptotic invariant.*
@@ -198,7 +198,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 ---
 
-### 7) CFS_Holography_2025_Comments
+### 7) Causal Fermion Systems and Holography : Comments on a 2025 Paper
 
 > *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
 > The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
@@ -209,7 +209,9 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 ![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
 ![Tag](https://img.shields.io/badge/Holography-lightgrey)
 
-### 8) CFS_VitesseMax
+---
+
+### 8) Causal Fermion Systems and Information Maximum Speed
 
 > *This note reinterprets Felix Finster’s Causal Fermion Systems (CFS) in terms of computational limits. Causality, defined via spectral properties of fermionic projectors,
 >  is shown to induce a global partial order with consistency constraints. Decoherence and effective quantum collapse emerge from mixtures of quasi-degenerate minimizers,
@@ -222,7 +224,9 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 ![Tag](https://img.shields.io/badge/Causal%20Fermion%20Systems-lightgrey)
 ![Tag](https://img.shields.io/badge/ComputationalLimits-lightgrey)
 
-### 9) FaiceauSpectral_MorphismeGeometrique
+---
+
+### 9) Spectral Sheaves and Geometric Morphisms
 
 > *This paper introduces the spectral sheaf as a presheaf over the category of abelian subalgebras of a von Neumann algebra, representing contextual state spaces in quantum mechanics.
 >  By the Kochen–Specker theorem, it lacks global sections, admitting only local ones. The framework is set within Grothendieck topoi,
@@ -234,6 +238,8 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/FaiceauSpectral_MorphismeGeometrique_FR.pdf)
 ![Tag](https://img.shields.io/badge/SpectralSheaf-lightgrey)
 ![Tag](https://img.shields.io/badge/ToposTheory-lightgrey)
+
+---
 
 ### 10) Topos as a modeling tool for measurement
 

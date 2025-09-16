@@ -212,9 +212,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 ### 8) CFS_VitesseMax
 
-> *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
-> The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
-> Linked with finite-propagation bounds in networks (NTK + IS-loss), pointing to a universal speed-limit principle.*
+> This note reinterprets Felix Finster’s Causal Fermion Systems (CFS) in terms of computational limits. Causality, defined via spectral properties of fermionic projectors, is shown to induce a global partial order with consistency constraints. Decoherence and effective quantum collapse emerge from mixtures of quasi-degenerate minimizers, reproducing the Born rule. The speed of light is reinterpreted as a computational bound: the maximum rate of information propagation in the CFS network, formalized through Lieb–Robinson type estimates and hyperbolic equations from the Euler–Lagrange framework. Fermionic operators are viewed as local oscillators, forming a quantum circuit whose complexity limits yield finite causal propagation.
 
 [![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/CFS_VitesseMax_EN.pdf)
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_VitesseMax_FR.pdf)

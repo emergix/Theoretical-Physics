@@ -177,28 +177,7 @@ Avec l’**entropie relative** et le **Hamiltonien modulaire**, JLMS/FLM se reco
 
 ---
 
-### 6) From Itakura–Saito loss to Conformal Invariance
-
-> *Field-theoretic view of the Itakura–Saito loss: minimizing IS ≈ minimizing an energy of a prediction field.  
-> Linearization yields a massive scalar theory; in the large-target limit, **conformal invariance** emerges and flattens the Hessian spectrum (robust optimization).  
-> A **unified causal bound** limits information propagation in networks (architecture-imposed speed). Links to NTK dynamics and holography; a 1D example shows stabilized, faster training within causal horizons.*
-
-[![PDF](https://img.shields.io/badge/PDF-English-0b5fff)](./papers/Scale_Inv_IS_Bound.pdf)
-[![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/Scale_Inv_IS_Bound_FR.pdf)
-![Tag](https://img.shields.io/badge/Learning%20Theory-lightgrey)
-![Tag](https://img.shields.io/badge/Conformal%20Invariance-lightgrey)
-
-<details>
-  <summary><b>Résumé FR</b></summary>
-
-Cadre **champ-théorique** pour la perte d’Itakura–Saito : sa minimisation revient à minimiser une énergie de champ de prédiction.  
-La linéarisation mène à un scalaire massif ; à grande cible, **invariance conforme** et **aplatissement du spectre de Hessien** améliorent la robustesse.  
-Un **borne causale unifiée** contraint la vitesse de propagation d’information (limite architecturale). Connexions NTK et analogies holographiques ; exemple 1D à l’appui.
-</details>
-
----
-
-### 7) Causal Fermion Systems and Holography : Comments on a 2025 Paper
+### 6) Causal Fermion Systems and Holography : Comments on a 2025 Paper
 
 > *Causal Fermion Systems (Finster; Dappiaggi et al. 2025): spacetime and fields emerge from fermionic correlations—matter creates space via self-interaction.  
 > The (1,3) signature and time exist only locally/asymptotically; near the Big Bang or inside black holes, dimension and time may be undefined.  
@@ -211,7 +190,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 ---
 
-### 8) Causal Fermion Systems and Information Maximum Speed
+### 7) Causal Fermion Systems and Information Maximum Speed
 
 > *This note reinterprets Felix Finster’s Causal Fermion Systems (CFS) in terms of computational limits. Causality, defined via spectral properties of fermionic projectors,
 >  is shown to induce a global partial order with consistency constraints. Decoherence and effective quantum collapse emerge from mixtures of quasi-degenerate minimizers,
@@ -226,7 +205,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 ---
 
-### 9) Spectral Sheaves and Geometric Morphisms
+### 8) Spectral Sheaves and Geometric Morphisms
 
 > *This paper introduces the spectral sheaf as a presheaf over the category of abelian subalgebras of a von Neumann algebra, representing contextual state spaces in quantum mechanics.
 >  By the Kochen–Specker theorem, it lacks global sections, admitting only local ones. The framework is set within Grothendieck topoi,
@@ -241,7 +220,7 @@ Un **borne causale unifiée** contraint la vitesse de propagation d’informatio
 
 ---
 
-### 10) Topos as a modeling tool for measurement
+### 9) Topos as a modeling tool for measurement
 
 > *This paper develops the notion of creative measurement, reframing quantum measurement as an act of creation rather than collapse.
 > Using topos theory, a measurement is modeled as a geometric morphism that transforms the pre-measurement topos into one where the result becomes decidable (Boolean) within its context.

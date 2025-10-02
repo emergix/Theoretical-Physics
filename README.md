@@ -70,7 +70,7 @@ This body of work aims to:
 
 [![PDF](https://img.shields.io/badge/PDF-Français-ff486e)](./papers/CFS_VitesseMax.pdf)
 
-The ten papers included in this project are:
+The 9 papers included in this project are:
 
 
 
